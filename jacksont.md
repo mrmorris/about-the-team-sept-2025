@@ -5,3 +5,7 @@ Hobbies:
 *Reading
 *Kayaking
 *Birdwatching
+
+
+Favorite hikes:
+*The Wave
