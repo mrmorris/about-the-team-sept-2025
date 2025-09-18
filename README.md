@@ -3,6 +3,6 @@
 ---
 
 * [Ryan Morris](./ryan-morris.md)
-* <your name goes here >
+* [Jackson Trappett](./jacksont.md)
 
 Formed September 2025
