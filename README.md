@@ -3,6 +3,6 @@
 ---
 
 * [Ryan Morris](./ryan-morris.md)
-* <your name goes here >
+* Paul Madonna
 
 Formed September 2025
