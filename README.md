@@ -1,1 +1,8 @@
-# about-the-team-sept-2025
+# About the team
+
+---
+
+* [Ryan Morris](./ryan-morris.md)
+* <your name goes here >
+
+Formed September 2025
