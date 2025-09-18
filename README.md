@@ -3,6 +3,7 @@
 ---
 
 * [Ryan Morris](./ryan-morris.md)
+* [Jackson Trappett](./jacksont.md)
 * Abe Lincoln
 * Bad Robot
 * <your name goes here >
